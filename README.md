@@ -5,6 +5,20 @@ It is specially developed during the **Cyber Security Internship at CODTECH** by
 
 ---
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: KUSHAL KUMAWAT
+
+*INTERN ID*: CT04DK768
+
+*DOMAIN*: Cyber Security & Ethical Hacking
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+---
+
 ## ✨ Features
 
 - 🎨 Color-coded terminal output for better readability
