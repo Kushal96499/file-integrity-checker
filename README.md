@@ -41,9 +41,9 @@ python3 file_integrity_checker.py
 
 ## 🖥️ Menu Options
 Option | Action
-1      | Save hash of a file
-2      | Verify integrity of a file
-3      | Exit the tool
+ 1      | Save hash of a file
+ 2      | Verify integrity of a file
+ 3      | Exit the tool
 
 ---
 
@@ -89,8 +89,11 @@ Works on Linux (Kali, Ubuntu) and Windows both.
 
 ---
 
-📸 Screenshots 
+# 📸 Screenshots 
 
+![Image](https://github.com/user-attachments/assets/ac98ae55-bdb3-4413-a4e6-59a99f237ac8)
+
+---
 ## 🤝 Credits
 Developed with ❤️ by Kushal Kumawat
 for the CODTECH Cyber Security Internship Program.
