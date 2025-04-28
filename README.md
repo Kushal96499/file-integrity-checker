@@ -69,9 +69,9 @@ Hash comparison for file integrity check
 ## 📁 File Structure
 
 ### file_integrity_task/
-# ├── file1.txt
-# ├── file2.txt
-# └── file_integrity_checker.py
+### ├── file1.txt
+### ├── file2.txt
+### └── file_integrity_checker.py
 
 👨‍💻 Author
 Kushal Kumawat
