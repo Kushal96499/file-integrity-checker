@@ -48,11 +48,11 @@ python3 file_integrity_checker.py
 ---
 
 ## 📂 Folder Structure
-file-integrity-checker/
-│
-├── file_integrity_checker.py   # Main Python Script
-├── hashes.json                 # (Auto-created) Database of saved hashes
-├── README.md                   # Project Guide
+### file-integrity-checker/
+#### │
+#### ├── file_integrity_checker.py   # Main Python Script
+#### ├── hashes.json                 # (Auto-created) Database of saved hashes
+#### ├── README.md                   # Project Guide
 
 ---
 
