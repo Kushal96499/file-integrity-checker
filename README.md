@@ -66,16 +66,16 @@ File handling in binary mode
 
 Hash comparison for file integrity check
 
-📁 File Structure
+## 📁 File Structure
 
-file_integrity_task/
-├── file1.txt
-├── file2.txt
-└── file_integrity_checker.py
+### file_integrity_task/
+# ├── file1.txt
+# ├── file2.txt
+# └── file_integrity_checker.py
 
 👨‍💻 Author
 Kushal Kumawat
-Cyber Security Intern @ CodTech
+Cyber Security & Ethical Hacking Intern @ CodTech
 Kali Linux User 💻 | Python Learner 🐍
 
 📜 License
