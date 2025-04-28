@@ -40,10 +40,10 @@ python3 file_integrity_checker.py
 ---
 
 ## 🖥️ Menu Options
-Option | Action
- 1      | Save hash of a file.
- 2      | Verify integrity of a file.
- 3      | Exit the tool.
+### Option | Action
+ #### 1      | Save hash of a file.
+ #### 2      | Verify integrity of a file.
+ #### 3      | Exit the tool.
 
 ---
 
