@@ -2,6 +2,18 @@
 
 This is a simple and powerful *File Integrity Checker* built using Python. It helps verify whether two files are exactly the same or have been tampered with, by comparing their *SHA-256 hash values*.
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: KUSHAL KUMAWAT
+
+*INTERN ID*: CT04DK768
+
+*DOMAIN*: Cyber Security & Ethical Hacking
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 ---
 
 ## 📌 Features
